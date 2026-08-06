@@ -1,0 +1,6 @@
+{
+  "name": "Booster Ejaz",
+  "description": "AI video optimizer for TikTok, Instagram, Facebook, and YouTube with AI titles, hashtags, descriptions, hooks, thumbnail suggestions, SEO score, analytics, login, and subscription management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
